@@ -20,3 +20,4 @@ workers_dev = true
 
 [vars]
 ENABLE_INDEX_FORM = false
+WORKERLINKS_SECRET = "gilk1287"
