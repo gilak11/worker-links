@@ -19,5 +19,4 @@ compatibility_date = "2023-11-08"
 workers_dev = true
 
 [vars]
-ENABLE_INDEX_FORM = false
-WORKERLINKS_SECRET = "gilk1287"
+ENABLE_INDEX_FORM = true
