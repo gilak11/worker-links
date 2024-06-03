@@ -17,7 +17,6 @@ compatibility_date = "2023-11-08"
 
 # Remove or comment out the route line if using workers_dev (and set below to true)
 workers_dev = true
-route = { pattern = "erisa.link/*", zone_name = "erisa.link" }
 
 [vars]
 ENABLE_INDEX_FORM = false
