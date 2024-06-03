@@ -16,7 +16,8 @@ compatibility_flags = []
 compatibility_date = "2023-11-08"
 
 # Remove or comment out the route line if using workers_dev (and set below to true)
-workers_dev = true
+workers_dev = false
+route = { pattern = "abr1.co/*", zone_name = "abr1.co" }
 
 [vars]
 ENABLE_INDEX_FORM = true
